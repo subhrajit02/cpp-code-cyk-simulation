@@ -1,0 +1,17 @@
+S
+7
+S -> AB
+A -> CD | CF
+B -> c | EB
+C -> a
+D -> b
+E -> c
+F -> AD
+aaabbbccc
+S
+4
+S -> AB | BC
+A -> BA | a
+B -> CC | b
+C -> AB | a
+baaba
